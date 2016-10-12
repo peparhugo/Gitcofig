@@ -1,0 +1,16 @@
+[user]
+	name = Pepar Hugo
+	email = peparhugo@gmail.com
+[credential]
+	helper = wincred
+[color]
+	ui = auto
+[core]
+	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -nosession
+	autocrlf = true
+[web]
+	browser = chrome
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3

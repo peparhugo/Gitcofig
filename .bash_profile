@@ -21,3 +21,4 @@ alias bdu='start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
 alias uda='start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" "https://www.udacity.com/"'
 alias subl='start "" "C:\Program Files\Sublime Text 3\sublime_text.exe" '
 alias sub2='start "" "C:\Program Files\Sublime Text 2\sublime_text.exe" '
+alias jn='jupyter notebook'
